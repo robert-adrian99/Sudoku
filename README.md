@@ -9,18 +9,18 @@ The picture below represents the main window for the app. The app has a TextBox 
 - Intermediate: like Beginer, but without the hint and with a smaller number of completed boxes
 - Advanced: like Intermediate, but with a much smaller number of completed boxes
 
-<img src="images/MainWindow.jpg">
+<img src="images/MainWindow.jpg" width="300">
 
 Learn version offers the user a little help: when a box is selected, the corresponding line, column and rectangular boxes are highlighted.
 
-<img src="images/Learn.jpg">
+<img src="images/Learn.jpg" width="300">
 
 Beginer version is a 9x9 sudoku with the little help from Learn version.
 
-<img src="images/Beginer.jpg">
+<img src="images/Beginer.jpg" width="300">
 
 Intermediate and Advanced version are the regular sudoku, the difference being made by the number of completed boxes.
 
-<img src="images/Intermediate.jpg">
+<img src="images/Intermediate.jpg" width="300">
 
-<img src="images/Advanced.jpg">
+<img src="images/Advanced.jpg" width="300">
